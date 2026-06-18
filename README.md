@@ -9,7 +9,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Python+%2B+Java+%2B+Angular+%2B+Docker;Always+learning%2C+always+shipping"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=22&duration=3000&pause=1200&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%2B+Angular+%2B+Python+%2B+Docker;Always+learning"/>
 
 </div>
 
