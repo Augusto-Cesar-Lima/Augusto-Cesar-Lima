@@ -3,7 +3,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=shark&height=200&text=Augusto%20Lima&fontAlign=50&fontAlignY=45&color=0:0D1117,100:C084FC&fontColor=FFFFFF&fontSize=46&desc=Full%20Stack%20Developer%20•%20Python%20%7C%20Java%20%7C%20Angular&descAlignY=62"/>
+<img src="https://capsule-render.vercel.app/api?type=shark&height=200&text=Augusto%20Lima&fontAlign=50&fontAlignY=45&color=0:0D1117,100:C084FC&fontColor=FFFFFF&fontSize=46&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%7C%20Angular%20%7C%20Python&descAlignY=62"/>
 
 </div>
 
@@ -36,17 +36,6 @@
 
 <img src="https://skillicons.dev/icons?i=python" width="65px"/>
 
-### Python
-
-`Scripting`  
-`Automation`  
-`Data Processing`
-
-</td>
-
-<td align="center" width="190px">
-
-<img src="https://skillicons.dev/icons?i=java" width="65px"/>
 
 ### Java
 
