@@ -3,13 +3,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Augusto%20Lima&fontAlign=50&fontAlignY=45&color=0:0D1117,100:C084FC&fontColor=FFFFFF&fontSize=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%7C%20Angular%20%7C%20Python&descAlignY=63"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Augusto%20Lima&fontAlign=50&fontAlignY=45&color=0:0D1117,100:C084FC&fontColor=FFFFFF&fontSize=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%7C%20Angular&descAlignY=63"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Java+%2B+Angular+%2B+Python+%2B+Docker;Always+learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Always+learning"/>
 
 </div>
 
@@ -46,6 +46,14 @@
 <td align="center" width="120px">
 <img src="https://skillicons.dev/icons?i=typescript" width="55px"/><br>
 <b>TypeScript</b>
+</td>
+<td align="center" width="120px">
+<img src="https://skillicons.dev/icons?i=javascript" width="55px"/><br>
+<b>JavaScript</b>
+</td>
+<td align="center" width="120px">
+<img src="https://skillicons.dev/icons?i=cs" width="55px"/><br>
+<b>C#</b>
 </td>
 <td align="center" width="120px">
 <img src="https://skillicons.dev/icons?i=python" width="55px"/><br>
@@ -121,10 +129,6 @@
 <a href="mailto:augusto.acql@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-augusto.acql-C084FC?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0D1117"/>
 </a>
-
-<br><br>
-
-### *"Code it. Ship it. Improve it."* 
 
 </div>
 
