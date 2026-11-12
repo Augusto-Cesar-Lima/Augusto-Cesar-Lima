@@ -3,13 +3,13 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Augusto%20Lima&fontAlign=50&fontAlignY=45&color=0:0D1117,100:C084FC&fontColor=FFFFFF&fontSize=50&desc=Full%20Stack%20Developer%20%E2%80%A2%20Java%20%7C%20Angular&descAlignY=63"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&height=220&text=Augusto%20Lima&fontAlign=50&fontAlignY=45&color=0:0D1117,100:C084FC&fontColor=FFFFFF&fontSize=50&desc=Software%20Developer&descAlignY=63"/>
 
 </div>
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Developer;Always+learning"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=24&duration=2000&pause=1000&color=C084FC&center=true&vCenter=true&width=700&lines=Full+Stack+Software+Developer;Always+learning"/>
 
 </div>
 
